@@ -10,8 +10,7 @@ I’m a developer focused on building clean, practical software and continuously
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=github,js,ts,python,C++,C,SQL,Flask,nodejs,react,git,vscode" alt="Tech stack logos" />
-</p>
+<img src="https://skillicons.dev/icons?i=github,js,ts,python,cpp,c,sql,flask,nodejs,react,git,vscode" alt="Tech stack logos" /></p>
 
 ## 📫 Connect With Me
 * <img src="https://skillicons.dev/icons?i=github" height="20"> [@nirajan-sah](https://github.com/nirajan-sah)
