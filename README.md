@@ -14,4 +14,4 @@ I’m a developer focused on building clean, practical software and continuously
 </p>
 
 ## 📫 Connect With Me
-- GitHub: [@nirajan-sah](https://github.com/nirajan-sah)
+- <img src="https://skillicons.dev/icons?i=github">: [@nirajan-sah](https://github.com/nirajan-sah)
