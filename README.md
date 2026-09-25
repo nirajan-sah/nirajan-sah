@@ -10,12 +10,23 @@ I’m a developer focused on building clean, practical software and continuously
 
 ## 🛠️ Tech Stack
 <p>
-<b>Languages:</b> <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" alt="Languages" />
-<b>Frontend:</b> <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend" />
-<b>Backend:</b> <img src="https://skillicons.dev/icons?i=flask,django,nodejs" alt="Backend" />
-<b>AI/ML:</b> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,jupyter" alt="AI/ML" />
-<b>Database:</b> <img src="https://skillicons.dev/icons?i=mysql" alt="Database" />
-<b>Tools:</b> <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" alt="Tools" />
+<b>Languages:</b><br>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" alt="Languages" /><br>
+
+<b>Frontend:</b><br>
+<img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend" /><br>
+
+<b>Backend:</b><br>
+<img src="https://skillicons.dev/icons?i=flask,django,nodejs" alt="Backend" /><br>
+
+<b>AI/ML:</b><br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,jupyter" alt="AI/ML" /><br>
+
+<b>Database:</b><br>
+<img src="https://skillicons.dev/icons?i=mysql" alt="Database" /><br>
+
+<b>Tools:</b><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" alt="Tools" />
 </p>
 
 ## 📫 Connect With Me
