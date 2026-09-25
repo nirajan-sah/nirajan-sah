@@ -9,9 +9,9 @@ I’m a developer focused on building clean, practical software and continuously
 - 💬 Ask me about web development, APIs, and developer workflows.
 
 ## 🛠️ Tech Stack
-- Languages: JavaScript, TypeScript, Python
-- Frameworks/Libraries: Node.js, React
-- Tools: Git, GitHub, VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=github,js,ts,python,nodejs,react,git,vscode" alt="Tech stack logos" />
+</p>
 
 ## 📫 Connect With Me
 - GitHub: [@nirajan-sah](https://github.com/nirajan-sah)
