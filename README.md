@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Nirajan Sah 👋
 
-<!--
-**nirajan-sah/nirajan-sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer focused on building clean, practical software and continuously learning new tools.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on personal and open-source projects.
+- 🌱 I’m currently learning modern backend and cloud development practices.
+- 🤝 I’m open to collaboration on impactful software ideas.
+- 💬 Ask me about web development, APIs, and developer workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: JavaScript, TypeScript, Python
+- Frameworks/Libraries: Node.js, React
+- Tools: Git, GitHub, VS Code
+
+## 📫 Connect With Me
+- GitHub: [@nirajan-sah](https://github.com/nirajan-sah)
